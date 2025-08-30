@@ -1,0 +1,10 @@
+---
+minecraft_waterland_versions:
+  '0.10.4':
+    resource_pack:
+      sha256: 890523e7d28ce4054020e5235db50487b8c7353b6d83d0e53e0b2a09215ab15f
+      url: https://github.com/cliffano/minecraft-waterland/releases/download/0.10.4/resource-pack-waterland-0.10.4.zip
+  '0.11.0':
+    resource_pack:
+      sha256: 2ed5cac90061e752ffb3b8078645e19e8526388faec0518ac5bf4e851fd9a49e
+      url: https://github.com/cliffano/minecraft-waterland/releases/download/0.11.0/resource-pack-waterland-0.11.0.zip
